@@ -1,0 +1,142 @@
+h1{
+    text-align: center;
+    border: 2px solid black;
+}
+.hSection{
+    text-align: center;
+    text-emphasis-style: bold;
+    margin: 50px 0;
+    font-size: medium;
+    font-weight: bold;
+}
+body{
+    background-color: gray;
+}
+
+.b9{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/pikachu.png');
+    background-size: cover;
+    background-color: rgb(255, 251, 8);
+    border: 2px solid black;    
+    margin: 0 25px;
+    
+}
+.main{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.gen1{
+    text-align: center;
+    margin: 50px 0;
+    
+}
+
+.b0{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png');
+    background-size: cover;
+    background-color: rgba(0, 255, 0, 0.5);
+    border: 2px solid black;    
+    margin: 0 25px;
+}
+.b1{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/squirtle.png');
+    background-size: cover;
+    background-color: rgba(0, 0, 255, 0.5);
+    border: 2px solid black;    
+    margin: 0 25px;
+}
+.b2{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/charmander.png');
+    background-size: cover;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 2px solid black;
+    margin: 0 25px;
+}
+
+
+.gen2{
+    margin: 50px 0;
+    text-align: center;
+}
+.b3{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/chikorita.png');
+    background-size: cover;
+    background-color: rgba(0, 255, 0, 0.5);
+    margin: 0 25px;
+    border: 2px solid black;
+}
+.b4{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/totodile.png');
+    background-size: cover;
+    background-color: rgba(0, 0, 255, 0.5);
+    border: 2px solid black;
+    margin: 0 25px;
+}
+.b5{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/cyndaquil.png');
+    background-size: cover;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 2px solid black;
+    margin: 0 25px;
+}
+
+
+
+.gen3{
+    margin: 50px 0;
+    text-align: center;
+}
+.b6{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/treecko.png');
+    background-size: cover;
+    background-color: rgba(0, 255, 0, 0.5);
+    border: 2px solid black;
+    margin: 0 25px;
+}
+.b7{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/mudkip.png');
+    background-size: cover;
+    background-color: rgba(0, 0, 255, 0.5);
+    border: none;
+    border: 2px solid black;
+    margin: 0 25px;
+}
+.b8{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.pokemondb.net/sprites/black-white/normal/torchic.png');
+    background-size: cover;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 2px solid black;
+    margin: 0 25px;
+}
+
+.dropdown{
+    text-align: center;
+}
+
+footer{
+    margin: 50px 0;
+    align-self: baseline;
+    text-align: left;
+    font-size: small;
+}
